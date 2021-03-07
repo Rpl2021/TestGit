@@ -2,3 +2,5 @@ Test Git
 Ini adalah file latihan menggunakan Git.
 Halo Happy Weekend
 Jalan-Jalan Kemana?
+Apa Kabar?
+
