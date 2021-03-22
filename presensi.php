@@ -12,7 +12,7 @@
 
     <div class="row">
         <div class="col-md-9">
-        <h5 style="margin-top:20px;">Presensi Employee</h5>
+        <h5 style="margin-top:20px;">Presensi Employee Finance</h5>
         </div>
 
         <div class="col-md">
